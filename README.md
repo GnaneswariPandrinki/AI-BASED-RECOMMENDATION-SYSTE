@@ -57,3 +57,7 @@ integrating machine learning libraries like Apache Mahout or TensorFlow. A graph
 Overall, this project serves as a strong foundation for understanding recommendation systems and data-driven applications. It is suitable for mini-projects, academic submissions, and for anyone interested in 
 
 learning how intelligent systems provide personalized recommendations using Java.
+
+OUTPUT:
+
+<img width="1329" height="168" alt="Image" src="https://github.com/user-attachments/assets/2dd7e04e-fa53-4a21-aa89-7cf07d2bcb27" />
